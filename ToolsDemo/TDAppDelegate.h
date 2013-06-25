@@ -8,6 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
+#import "TDNavigationController.h"
+#import "TDInitialViewController.h"
+
 @interface TDAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
