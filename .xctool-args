@@ -1,0 +1,8 @@
+[
+    "-workspace", "ToolsDemo.xcworkspace",
+    "-scheme", "ToolsDemo",
+    "-configuration", "Debug",
+    "-sdk", "iphonesimulator6.1",
+    "-arch", "i386",
+    "ONLY_ACTIVE_ARCH=NO"
+]

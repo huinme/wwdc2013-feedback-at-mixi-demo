@@ -1,0 +1,13 @@
+PODS:
+  - Kiwi (2.2)
+  - Nocilla (0.5)
+
+DEPENDENCIES:
+  - Kiwi
+  - Nocilla
+
+SPEC CHECKSUMS:
+  Kiwi: db174bba4ee8068b15d7122f1b22fb64b7c1d378
+  Nocilla: 1df04a76d7b25bde2bb3aaafbb3e339308be1bdf
+
+COCOAPODS: 0.20.2
